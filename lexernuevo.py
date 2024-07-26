@@ -5,7 +5,6 @@ import json
 import html
 from html import escape
 
-
 # Lista de tokens
 tokens = (
     'L_LLAVE', 'R_LLAVE', 'L_CORCHETE', 'R_CORCHETE', 'DOSPUNTOS', 'COMA', 'FLOAT', 'INTEGER',
