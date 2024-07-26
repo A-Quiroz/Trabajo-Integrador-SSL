@@ -24,7 +24,7 @@
                 "nombre": "Sideshow Mel",
                 "edad": 30,
                 "cargo": "Product Analyst",
-                "salario": 12505,
+                "salario": 12505.00,
                 "activo": true,
                 "fecha_contratacion": "2023-09-10",
                 "proyectos": [
